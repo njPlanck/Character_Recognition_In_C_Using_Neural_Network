@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1717851762 source:c:\users\chinasa\desktop\c\c projects\socket_project\neuralnetwork\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nn.h"
+	"utils.h"
+
+1717851936 c:\users\chinasa\desktop\c\c projects\socket_project\neuralnetwork\nn.h
+
+1717849776 c:\users\chinasa\desktop\c\c projects\socket_project\neuralnetwork\utils.h
+	<stdlib.h>
+	<stdio.h>
+
+1717850012 source:c:\users\chinasa\desktop\c\c projects\socket_project\neuralnetwork\utils.c
+	"utils.h"
+
+1717852237 source:c:\users\chinasa\desktop\c\c projects\socket_project\neuralnetwork\nn.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<stdarg.h>
+	"nn.h"
+
